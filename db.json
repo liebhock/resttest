@@ -25,7 +25,14 @@
       "postId": 1
     }
   ],
-  "profile": {
+  "profile": [{
     "name": "typicode"
+  },
+  {
+    "id": 2,
+    "body": "to you",
+    "postId": 1
   }
+
+  ]
 }
